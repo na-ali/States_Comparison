@@ -1,6 +1,7 @@
 # Description: This script plots the entanglement and product states probabilities 
 # as a function of the angle theta for the 2-propeller system.
 # Author: Nada Ali
+# Date: 2023-02-01
 
 # --------------------------------------------------------------- #
 
